@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Aviator Classic",
+      "gender": "Unisex",
+      "price": 150,
+      "description": "Iconic Aviator sunglasses featuring a timeless design with exceptional quality.",
+      "image": "https://i0.wp.com/glassesbd.com/wp-content/uploads/2023/12/DSF4330-PhotoRoom.jpg?resize=800%2C800&ssl=1"
+    },
+    {
+      "id": 2,
+      "name": "Wayfarer",
+      "gender": "Unisex",
+      "price": 130,
+      "description": "Classic Wayfarer sunglasses known for their distinctive shape and enduring style.",
+      "image": "https://i0.wp.com/glassesbd.com/wp-content/uploads/2024/01/DSF4816-PhotoRoom.jpg?resize=800%2C800&ssl=1"
+    },
+    {
+      "id": 3,
+      "name": "Clubmaster",
+      "gender": "Unisex",
+      "price": 160,
+      "description": "Stylish Clubmaster sunglasses blending retro and modern aesthetics seamlessly.",
+      "image": "https://i0.wp.com/glassesbd.com/wp-content/uploads/2024/01/DSF4836-PhotoRoom.jpg?fit=2000%2C2000&ssl=1"
+    },
+    {
+      "id": 4,
+      "name": "Round Metal",
+      "gender": "Unisex",
+      "price": 180,
+      "description": "Vintage-inspired Round Metal sunglasses with a bold and iconic look.",
+      "image": "https://img.freepik.com/free-photo/sunglasses_1203-7994.jpg?t=st=1710063688~exp=1710067288~hmac=0bca2edcd564d6a80b87ea8fa6230c84136f6cbf783cac811f4b6349bf8f0b52&w=900"
+    },
+    {
+      "id": 5,
+      "name": "Erika",
+      "gender": "Women",
+      "price": 120,
+      "description": "Chic Erika sunglasses featuring a soft cat-eye shape for a feminine touch.",
+      "image": "https://img.freepik.com/free-psd/sunglasses-item-isolated_23-2150427722.jpg?t=st=1710063713~exp=1710067313~hmac=2bfa80acb918ca6ee21536713d3b6c55ee43c73d1ec1e12af75ac5bd829882a9&w=740"
+    },
+    {
+      "id": 6,
+      "name": "Justin",
+      "gender": "Men",
+      "price": 110,
+      "description": "Masculine Justin sunglasses with a sporty design and polarized lenses for enhanced clarity.",
+      "image": "https://img.freepik.com/free-psd/sunglasses-item-isolated_23-2150427734.jpg?t=st=1710063736~exp=1710067336~hmac=f73a0c5efda017924b01dbd709783b8da6ca6600213f3f13701ed535678a6feb&w=740"
+    },
+    {
+      "id": 7,
+      "name": "Round Fleck",
+      "gender": "Unisex",
+      "price": 170,
+      "description": "Round Fleck sunglasses with a distinctive design featuring keyhole bridge and metal rivets.",
+      "image": "https://img.freepik.com/free-psd/sunglasses-item-isolated_23-2150427719.jpg?t=st=1710064029~exp=1710067629~hmac=6b10e15cb5314737eadbcb97c6f4e360512c5641a4ead4ee7605f32f5bb722e5&w=740"
+    },
+    {
+      "id": 8,
+      "name": "Blaze Shooter",
+      "gender": "Men",
+      "price": 200,
+      "description": "Bold Blaze Shooter sunglasses with a futuristic shield lens and iconic Ray-Ban branding.",
+      "image": "https://t3.ftcdn.net/jpg/06/82/77/12/240_F_682771216_ou1YvKOD57uH0u1sNZZgZQ598aRBvFDo.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Chris",
+      "gender": "Unisex",
+      "price": 140,
+      "description": "Modern Chris sunglasses with a bold design and gradient lenses for a contemporary look.",
+      "image": "https://t4.ftcdn.net/jpg/06/86/86/51/240_F_686865152_iEX7Rs43KdDV4yG2yMo70wqyazVF0vZD.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Hexagonal",
+      "gender": "Unisex",
+      "price": 190,
+      "description": "Hexagonal sunglasses featuring a unique geometric shape for a standout style.",
+      "image": "https://img.freepik.com/free-vector/coloured-summer-background_1034-120.jpg?t=st=1710064322~exp=1710067922~hmac=4b4a7c55bb7fb5f042b24bad7a5e0cd88086e6ce384cb94573c4d4e996262302&w=740"
+    },
+    {
+      "id": 11,
+      "name": "Round Craft",
+      "gender": "Unisex",
+      "price": 210,
+      "description": "Round Craft sunglasses crafted with premium materials for exceptional comfort and durability.",
+      "image": "https://images.unsplash.com/photo-1589642380614-4a8c2147b857?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 12,
+      "name": "Marshal",
+      "gender": "Men",
+      "price": 220,
+      "description": "Marshal sunglasses with a bold double bridge design and flat lenses for a modern edge.",
+      "image": "https://images.unsplash.com/photo-1625591342274-013866180475?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 13,
+      "name": "Round Double Bridge",
+      "gender": "Unisex",
+      "price": 230,
+      "description": "Round Double Bridge sunglasses featuring a distinctive double bridge and round lenses for a retro look.",
+      "image": "https://images.unsplash.com/photo-1532377394423-f5e9ce8c3511?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 14,
+      "name": "Gatsby",
+      "gender": "Women",
+      "price": 240,
+      "description": "Gatsby sunglasses inspired by the Roaring Twenties with a glamorous and sophisticated design.",
+      "image": "https://images.unsplash.com/photo-1564245659875-79f41f648854?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjJ8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 15,
+      "name": "RB2180",
+      "gender": "Unisex",
+      "price": 250,
+      "description": "RB2180 sunglasses with a modern round shape and sleek temples for a contemporary style.",
+      "image": "https://images.unsplash.com/photo-1567333126229-db29200c25f1?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjd8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 16,
+      "name": "State Street",
+      "gender": "Unisex",
+      "price": 260,
+      "description": "State Street sunglasses featuring a classic rectangular shape and bold profile for a confident look.",
+      "image": "https://images.unsplash.com/photo-1594830564484-506911d0f97b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 17,
+      "name": "Ja-Jo",
+      "gender": "Women",
+      "price": 270,
+      "description": "Ja-Jo sunglasses with a playful and colorful design inspired by urban street style.",
+      "image": "https://images.unsplash.com/photo-1616560787909-d43a377625d5?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzZ8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 18,
+      "name": "RB2448N",
+      "gender": "Unisex",
+      "price": 280,
+      "description": "RB2448N sunglasses with a modern take on the classic Wayfarer style for a fresh look.",
+      "image": "https://images.unsplash.com/photo-1531380096452-2c5fa9bb9589?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mzh8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 19,
+      "name": "RB4318",
+      "gender": "Women",
+      "price": 290,
+      "description": "RB4318 sunglasses with a sleek square shape and slim temples for a minimalist aesthetic.",
+      "image": "https://images.unsplash.com/photo-1523754865311-b886113bb8de?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDZ8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    },
+    {
+      "id": 20,
+      "name": "RB4321",
+      "gender": "Women",
+      "price": 300,
+      "description": "RB4321 sunglasses featuring a wraparound design for maximum coverage and sporty style.",
+      "image": "https://images.unsplash.com/photo-1625591339971-4c9a87a66871?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NjZ8fHN1bmdsYXNzfGVufDB8fDB8fHww"
+    }
+  ]
+  
