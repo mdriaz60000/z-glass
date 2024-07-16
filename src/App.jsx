@@ -2,6 +2,7 @@ import Footer from "./components/shared/Footer/Footer"
 //import AboutMe from "./pages/AboutMe/AboutMe"
 import Banner from "./pages/Banner/Banner"
 import MyServices from "./pages/MyServices/MyServices"
+import SslPhoto from "./pages/SslPhoto/SslPhoto"
 
 
 
@@ -20,6 +21,7 @@ function App() {
           >
            <Banner></Banner>
            <MyServices></MyServices>
+           <SslPhoto></SslPhoto>
            <Footer></Footer>
         
 

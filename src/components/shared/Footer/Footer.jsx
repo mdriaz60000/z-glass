@@ -12,7 +12,7 @@ const Footer = () => {
             <Container> 
              <div className="  md:flex  items-center  justify-between">
                 <section>
-                 <h1 className=" text-center  font-serif font-semibold">@2024 All Rights Reserved By Ma<span className=" text-red-700 animate-ping">s</span>um</h1>  
+                 <h1 className=" text-center  font-serif font-semibold">@2024 All Rights Reserved By Z-Glass</h1>  
                 </section>
                 <section>
                   <div className=" mt-3  flex justify-center gap-3">

@@ -3,16 +3,44 @@
 
 import { useEffect, useState } from "react";
 import SuggestCard from "../SuggestCard/SuggestCard";
+import useAxiosHost from "../../../Hooks/useAxiosHost";
+import Swal from "sweetalert2";
 
 // eslint-disable-next-line react/prop-types
 const DetailsCard = ({sunglasses, allSunglasses}) => {
 
    const[ product , setProduct] = useState([])
+   const axiosHost = useAxiosHost()
 
   useEffect(()=>{
     const filterSunglass = allSunglasses?.filter(item => item.gender== sunglasses.gender)
     setProduct(filterSunglass)
   },[allSunglasses,sunglasses.gender])
+
+  const {name,price,image, description, gender} = sunglasses
+
+  const handleBuyNow = () =>{
+    
+    const sunglassInfo ={
+      name,
+      image,
+      description,
+      price,
+      gender
+    }
+    axiosHost.post("/sunglass", sunglassInfo)
+    .then((res)=>{
+      console.log(res.data)
+      if(res.data.insertedId){
+        Swal.fire({
+          title: 'success',
+          text: 'added product',
+          icon: 'success',
+          confirmButtonText: 'Cool'
+        })
+      }
+    })
+  }
 
     return (
       <>
@@ -26,13 +54,13 @@ const DetailsCard = ({sunglasses, allSunglasses}) => {
                <p> Price: ${sunglasses.price}</p>
                <p> gender: {sunglasses.gender}</p>               
             </div>
-            <button className=" mt-3 btn btn-primary">buy now</button>
+            <button onClick={handleBuyNow} className=" mt-3 btn btn-primary">buy now</button>
           </div>
         </div>
       </div>
       <section className="  w-full mx-auto mt-9 flex flex-row gap-4">
         {
-          product?.slice(0,5).map(item =><SuggestCard key={item.id} item={item}></SuggestCard>)
+          product?.slice(0,5).map(items =><SuggestCard key={items.id} items={items}></SuggestCard>)
         }
       </section>
       </>

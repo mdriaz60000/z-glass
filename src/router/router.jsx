@@ -4,6 +4,7 @@ import App from './../App';
 
 import ErrorPage from "../components/shared/ErrorPages";
 import Details from './../components/Details/Details';
+import MySunglass from "../components/MySunglass/MySunglass";
 
 
 const router = createBrowserRouter([
@@ -21,6 +22,10 @@ const router = createBrowserRouter([
             element: <Details></Details>,
             loader:()=>fetch('/sunglass.json')
         },
+        {
+          path: "/mySunglass",
+          element: <MySunglass></MySunglass>
+      },
     
       ]
     },

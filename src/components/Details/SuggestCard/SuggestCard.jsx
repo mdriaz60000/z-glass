@@ -1,26 +1,33 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable react/prop-types */
 
-import { Link } from "react-router-dom";
+// import { useEffect, useState } from "react";
+import { Link,  } from "react-router-dom";
 
 
-const SuggestCard = ({item}) => {
+const SuggestCard = ({items}) => {
+  // const [sunglasses, setSunglasses] = useState([])
+
+  // useEffect(()=>{
+  //     fetch('sunglass.json').then(res=>res.json())
+  //     .then(data=>setSunglasses(data))
+  // },[])
     return (
-        <Link to={`details/${item.id}`}>
+         <Link to={`/details/${items.id}`}>
         <div className="card card-compact  bg-base-100 shadow-xl">
          <figure>
            <img className="  w-full h-52"
-             src={item.image}
+             src={items.image}
              alt="sunglass"
            />
          </figure>
          <div className="card-body">
-           <p>{item.name}</p>
+           <p>{items.name}</p>
    
          </div>
        </div>
    
-       </Link>
+        </Link>
     );
 };
 
