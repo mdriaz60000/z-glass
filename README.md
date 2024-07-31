@@ -3,8 +3,10 @@
 
 * KeyFiture
  
-• Automated Management System 
-• User Friendly ordering and Payment System 
-• Real time Reporting and Analising
+* Automated Management System
+
+* User Friendly ordering and Payment System
+  
+* Real time Reporting and Analising
 
 
