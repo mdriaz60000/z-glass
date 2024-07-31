@@ -1,7 +1,10 @@
 # Sunglass Website
-  DEMO [Z-glass](https://z-glass.web.app/)
+  DEMO :  [Z-glass](https://z-glass.web.app/)
 
-Currently, two official plugins are available:
+* KeyFiture
+ 
+• Automated Management System 
+• User Friendly ordering and Payment System 
+• Real time Reporting and Analising
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
