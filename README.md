@@ -1,5 +1,5 @@
 # Sunglass Website
-  DEMO (https://z-glass.web.app/)
+  DEMO [Z-glass](https://z-glass.web.app/)
 
 Currently, two official plugins are available:
 
