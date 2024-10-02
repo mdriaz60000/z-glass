@@ -33,7 +33,7 @@ const Navbar = () => {
             Service
           </a>
                 <a
-            href='#contact'
+            href='/contact'
             className='  px-4 py-3  transition font-semibold'
           >
             contact

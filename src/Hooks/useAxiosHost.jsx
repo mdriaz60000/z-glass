@@ -1,10 +1,11 @@
 import axios from "axios";
 
 const axiosHost = axios.create({
-    baseURL:'http://localhost:5000',
+    baseURL:'https://z-glass-server.vercel.app/',
    // withCredentials:true,
+   //  
 })
-
+    
 const useAxiosHost = () => {
 
     return  axiosHost
