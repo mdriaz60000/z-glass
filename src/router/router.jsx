@@ -11,6 +11,7 @@ import FailPayment from "../components/shared/Payment/FailPayment";
 import Contact from "../pages/Contact/Contact";
 
 
+
 const router = createBrowserRouter([
     {
       path: "/",
@@ -46,6 +47,7 @@ const router = createBrowserRouter([
           path: "/fail",
           element: <FailPayment></FailPayment>
       },
+  
     
       ]
     },
